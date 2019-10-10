@@ -7,57 +7,57 @@
     {
         "id": 2,
         "name": "Mr. Johnson",
-        "image": "/images/image2.png"
+        "image": "images/image2.png"
     },
     {
         "id": 3,
         "name": "Ms. Kelly",
-        "image": "../images/image3.png"
+        "image": "images/image3.png"
     },
     {
         "id": 4,
         "name": "George",
-        "image": "../images/image4.png"
+        "image": "images/image4.png"
     },
     {
         "id": 5,
         "name": "Kevin",
-        "image": "../images/image5.png"
+        "image": "images/image5.png"
     },
     {
         "id": 6,
         "name": "Evelyn",
-        "image": "../images/image6.png"
+        "image": "images/image6.png"
     },
     {
         "id": 7,
         "name": "Tim",
-        "image": "../images/image7.png"
+        "image": "images/image7.png"
     },
     {
         "id": 8,
         "name": "Robyn",
-        "image": "../images/image8.png"
+        "image": "images/image8.png"
     },
     {
         "id": 9,
         "name": "Chelsea",
-        "image": "../images/image9.png"
+        "image": "images/image9.png"
     },
     {
         "id": 10,
         "name": "Kyle",
-        "image": "../images/image10.png"
+        "image": "images/image10.png"
     },
     {
         "id": 11,
         "name": "Stacy",
-        "image": "../images/image11.png"
+        "image": "images/image11.png"
     },
     {
         "id": 12,
         "name": "Edward",
-        "image": "../images/image12.png"
+        "image": "images/image12.png"
     }
 
 ]
