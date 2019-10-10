@@ -2,12 +2,12 @@
     {
         "id": 1,
         "name": "Billie",
-        "image": "../images/image1.png"
+        "image": "images/image1.png"
     },
     {
         "id": 2,
         "name": "Mr. Johnson",
-        "image": "../images/image2.png"
+        "image": "/images/image2.png"
     },
     {
         "id": 3,
